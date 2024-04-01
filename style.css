@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+
+#skills {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+button {
+  padding-bottom: 10px;
+  margin: 6px;
+}
